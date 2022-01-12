@@ -1,2 +1,2 @@
-# Build Dapps With Solidity Smartcontracts and Web3
-DAPPS with Solidity, Ethereum and Smartcontracts - React APP
+# Build DAPPS With Solidity Smart Contracts and Web3
+DAPPS with Solidity, Ethereum and Smart Contracts - React APP
