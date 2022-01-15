@@ -19,7 +19,7 @@ I recommend you install at least node v15 or you may run into some issues!
 * Run them on ethereum test network
 * Deploy them to ethereum test network
 * Connect to metamask wallet
-* Deploy  Smart Contracts to Rinkbay testnet
+* Deploy  Smart Contracts to Rinkbay testnet with Alchemy.
 * Use the ABI file for application communications
 
 ## Live Application
