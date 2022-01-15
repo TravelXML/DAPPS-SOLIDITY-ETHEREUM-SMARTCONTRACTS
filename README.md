@@ -24,7 +24,7 @@ I recommend you install at least node v15 or you may run into some issues!
 
 ## Live Application
 
-[LIVE](https://solidity-ethereum-smartcontract.apige.repl.co/)
+[LIVE DAPPS](https://solidity-ethereum-smartcontract.apige.repl.co/)
 
 
 Happy Coding! 💓
